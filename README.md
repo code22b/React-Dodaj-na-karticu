@@ -1,2 +1,2 @@
 # React
-React-Dodaj karticu
+React-Dodaj na karticu
